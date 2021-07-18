@@ -2,7 +2,7 @@
 - 👀 I’m interested in RISC V.
 - 🌱 I’m currently learning RISC V.
 - 💞️ I’m looking to collaborate on chip design.
-- 📫 How to reach me Email.
+- 📫 How to reach me fundrei@gmail.com.
 
 <!---
 phundrei/phundrei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
